@@ -1,0 +1,14 @@
+{
+  "main.css": "/spotify-recommender/static/css/main.e018abe2.chunk.css",
+  "main.js": "/spotify-recommender/static/js/main.6e14a669.chunk.js",
+  "main.js.map": "/spotify-recommender/static/js/main.6e14a669.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/spotify-recommender/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/spotify-recommender/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/spotify-recommender/static/js/runtime~main.d8a30f8e.js",
+  "runtime~main.js.map": "/spotify-recommender/static/js/runtime~main.d8a30f8e.js.map",
+  "static/media/logo.svg": "/spotify-recommender/static/media/logo.5d5d9eef.svg",
+  "static/css/main.e018abe2.chunk.css.map": "/spotify-recommender/static/css/main.e018abe2.chunk.css.map",
+  "index.html": "/spotify-recommender/index.html",
+  "precache-manifest.07088d32c79d0205b0658f5579b33709.js": "/spotify-recommender/precache-manifest.07088d32c79d0205b0658f5579b33709.js",
+  "service-worker.js": "/spotify-recommender/service-worker.js"
+}
